@@ -1,6 +1,5 @@
 # daily-coding-problems
-- [day001 | Product of all other numbers in a list without division](day002) || [leetcode](https://leetcode.com/problems/product-of-array-except-self/)
-- [Sum of 2 numbers in a list is equal to target](day001) || [leetcode](https://leetcode.com/problems/two-sum/)
+- [day001 | Sum of 2 numbers in a list is equal to target](day001) || [leetcode](https://leetcode.com/problems/two-sum/)
 - [day002 | Product of all other numbers in a list without division](day002) || [leetcode](https://leetcode.com/problems/product-of-array-except-self/)
 - [day003 | Serialize and deserialize binary tree](day003) || [Interviewbit](https://www.interviewbit.com/blog/serialize-and-deserialize-a-binary-tree/)
 - [day004 | Find first missing positive integer](day004) || [leetcode](https://leetcode.com/problems/first-missing-positive/)
