@@ -18,7 +18,6 @@ int main(){
         if (s[i-1] > '0')
             count[i] = count[i-1];
 
-
         if (s[i-2] == '1' || (s[i-2] == '2' && s[i-1] < '7') )
             count[i] += count[i-2];
     }
